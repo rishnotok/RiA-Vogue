@@ -1,0 +1,29 @@
+Rish heels: <first time convertible heels in india>
+RiAVogue/
+├── Upper/                  # Leather, knit, synthetic materials
+├── Outsole/                
+│   ├── HeelReceptacle/    # Mounting interface
+│   └── FlatCaps/          # Protective covers for flat mode
+├── HeelModule/            
+│   ├── Stiletto/          # 4" variant
+│   ├── Block/             # 3" variant  
+│   └── Kitten/            # 1.5" variant
+└── SupportSystem/
+    ├── Stelo/              # Removable arch support
+    └── Insole/             # Memory foam padding
+
+                    ┌─────────────┐
+                    │  HEEL MODE  │
+                    │  (attached) │
+                    └──────┬──────┘
+                           │
+            Press button + │
+            Twist 90°      │
+                           ▼
+                    ┌─────────────┐      ┌─────────────┐
+                    │  DETACHED   │──────│ FLAT CAPS   │
+                    │   (heel)    │      │  APPLIED    │
+                    └─────────────┘      └─────────────┘
+                           │                    │
+                           │                    │
+                           └──────▶ FLAT MODE ◀──┘
